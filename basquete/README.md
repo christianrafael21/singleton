@@ -1,7 +1,7 @@
 # Projeto Singleton - Basquete
 
 ## Descrição
-Adaptação do projeto Singleton do professor para o contexto de basquete usando Maven.
+Adaptação do projeto Singleton para o contexto de basquete usando Maven.
 
 ## Estrutura do Projeto Maven
 ```
